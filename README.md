@@ -1,1 +1,3 @@
 # DiceRoller
+This is a dice roller that I made in python. This is my first repository on Github. My idea behind this dice roller is setting two vaiables as inputs both as a integer. One that represents amount of rolls and the other as how many side the die is when rolled. Then I used a list comprehension to take those inputs and generate list of numbers or said "rolls" for a dice using the random module.
+If there are any suggestion you have please let me know I am open to all suggestions as I am new to coding and programming so any feedback is welcomed and appriciated! Also if want to work with me contact me!
